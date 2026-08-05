@@ -1,0 +1,12 @@
+{
+  "kind": "gogreen-synthetic",
+  "disclaimer": "Experimental metadata, not application development",
+  "events": [
+    {
+      "id": "5d088b4b-fba7-406f-8f5e-a2da501d692c",
+      "simulatedAuthorTimestamp": "2026-08-05T13:12:51.000Z",
+      "actualCreationTimestamp": "2026-10-09T21:55:27.888Z",
+      "synthetic": true
+    }
+  ]
+}
